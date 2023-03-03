@@ -1,8 +1,8 @@
 package gogpt_test
 
 import (
-	. "github.com/2exd/go-gpt3"
-	"github.com/2exd/go-gpt3/internal/test"
+	. "github.com/2exd/gpt3"
+	"github.com/2exd/gpt3/internal/test"
 
 	"context"
 	"encoding/json"
