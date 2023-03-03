@@ -1,3 +1,3 @@
-module github.com/2exd/go-gpt3
+module github.com/2exd/gpt3
 
-go 1.17
+go 1.18
